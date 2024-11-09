@@ -8,8 +8,3 @@ pymupdf
 wikipedia
 lxml
 langchain-text-splitters
-streamlit
-langchain_groq
-fastapi
-uvicorn
-langserve
